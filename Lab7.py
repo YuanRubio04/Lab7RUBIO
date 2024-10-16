@@ -25,7 +25,7 @@ print (section)
 print (fnlgrade)
 
 if fnlgrade >= 99 and fnlgrade <=100:
-    print ("GPA: .00")
+    print ("GPA: 1.00")
 
 elif fnlgrade >= 96 and fnlgrade <=98:
     print ("GPA: 1.25")
